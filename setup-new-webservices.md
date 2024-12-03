@@ -65,7 +65,9 @@ npm i -g @cpdevtools/dcman-cli && dcm install
 
 ```bash
 dcm profile-sources create <GITHUB USERNAME>/dc-profiles
+```
 or
+```bash
 dcm profile-sources add <GITHUB USERNAME>/dc-profiles
 ```
 
