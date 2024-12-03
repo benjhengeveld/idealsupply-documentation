@@ -1,6 +1,6 @@
 # Ideal Supply Documentation
 
-Documentation for things Ideal Supply
+Documentation for all things Ideal Supply
 
 ## Documentation List
 
