@@ -1,4 +1,4 @@
-# New Webservices Setup
+# Setup New Webservices
 
 #### Update WSL
 
@@ -64,11 +64,11 @@ npm i -g @cpdevtools/dcman-cli && dcm install
 #### Add/create profile source
 
 ```bash
-dcm profile-sources create <GITHUB USERNAME>/dc-profiles
+dcm profile-sources create <GITHUB-USERNAME>/dc-profiles
 ```
 or
 ```bash
-dcm profile-sources add <GITHUB USERNAME>/dc-profiles
+dcm profile-sources add <GITHUB-USERNAME>/dc-profiles
 ```
 
 
@@ -76,7 +76,7 @@ dcm profile-sources add <GITHUB USERNAME>/dc-profiles
 #### Create profile
 
 ```bash
-dcm profiles create <GITHUB USERNAME>/dc-profiles idealsupply
+dcm profiles create <GITHUB-USERNAME>/dc-profiles idealsupply
 ```
 
 
@@ -84,7 +84,7 @@ dcm profiles create <GITHUB USERNAME>/dc-profiles idealsupply
 #### Set profile
 
 ```bash
-dcm profile set <GITHUB USERNAME>/dc-profiles#idealsupply
+dcm profile set <GITHUB-USERNAME>/dc-profiles#idealsupply
 ```
 
 
