@@ -1,4 +1,4 @@
-# idealsupply-documentation
+# Ideal Supply Documentation
 
 Documentation for things Ideal Supply
 
